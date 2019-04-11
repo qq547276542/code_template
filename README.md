@@ -1,5 +1,5 @@
 # code_template
-For 找工作前复习... 
+For 找工作前复习&&贴模板方便... 
 
 ### 字符串
 
@@ -20,6 +20,13 @@ For 找工作前复习...
 ### 动态规划
 
 ### 计算几何
+
+- [二维几何模板](计算几何/2d_template.cpp)
+- [凸包](计算几何/convexhull.cpp)
+- [旋转卡壳](计算几何/rotating.cpp)
+- [三角形外心，两圆相交面积](计算几何/tri_center.cpp)
+- [求半平面交的点集](计算几何/half_plane_intersection.cpp)
+- [多边形顶点按逆时针排序](计算几何/clockwise_sort.cpp)
 
 ### 图论
 
