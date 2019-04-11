@@ -26,6 +26,7 @@ For 贴模板方便...
 
 ### 动态规划
 
+- [最长上升子序列O(nlogn)](动态规划/lis.cpp)
 - [多重背包](动态规划/backpack.cpp)
 - [基础数位DP](动态规划/digital_dp.md)
 - [整数划分](动态规划/int_div.cpp)
@@ -42,7 +43,11 @@ For 贴模板方便...
 
 ### 图论
 
+- [Dijkstra](图论/dijkstra.cpp)
+- [Bellman Ford](图论/bellman_ford.cpp)
 - [SPFA](图论/SPFA.cpp)
+- [Kruskal](图论/kruskal.cpp)
+- [Tarjan](图论/tarjan.cpp)
 - [无向图割顶，桥，删点后连通块增加数](图论/Tarjan_gd_q.cpp)
 - [点双连通分量](图论/node_sltfl.cpp)
 - [无向图的边-双连通分量](图论/edge_sltfl.cpp)
