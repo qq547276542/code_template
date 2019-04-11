@@ -41,12 +41,19 @@ For 找工作前复习...
 
 ### 数论
 
+- [求一个数最少能表示成几个数的平方和(比如5=1+4，返回2)](数论/square_sum.cpp)
 - [Lucas求解大组合数](数论/lucas.cpp)
 - [素数筛选，整数唯一分解，整数所有因子和，递归求等比数列前n项和](数列/prime_sieve_etc.md)
 - [大区间素数筛选](数论/large_prime_sieve.cpp)
 - [扩展欧几里得，解模线性方程，解ax+by=c的解集](数论/exgcd.md)
 - [非互质中国剩余定理求线性模方程组(形如X%mi=ai)](数论/chinese.cpp)
-- 
+- [求1~n中与m互质的数的个数（m>n） 附hdu1695题解(欧拉函数+容斥原理)](数论/hdu1695.md)
+- [高斯消元法解01异或方程组 附poj1222题解](数论/gauss.md)
+- [素数定理，求1~10^n 素数个数的位数](数论/prime_theorem.md)
+- [Baby-Step Giant-Step 解高次同余方程(形如(a^x)%n=b,其中n为素数)](数论/bsgs.cpp)
+- [扩展Baby Step Giant Step (解(a^x)%n=b,其中c没有限制)](数论/exbsgs.cpp)
+- [Miller-Rabin素数测试(被测数可以是小于2^63的正整数)](数论/MR_test.md)
+- [pollard_rho质因素分解](数论/pollard_rho.cpp)
 
 ### 其它题解
 
