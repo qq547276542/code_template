@@ -3,12 +3,19 @@ For 找工作前复习&&贴模板方便...
 
 ### 字符串
 
+- [KMP](字符串/kmp.cpp)
+- [Trie(字典树)](字符串/trie.cpp)
+- [AC自动机](字符串/ac_auto.cpp)
+- [字符串最小/最大表示法](字符串/min_max_repres.cpp)
+- [Manacher算法求最长回文子串](字符串/manacher.cpp)
+- [后缀数组，任意两点间LCP](字符串/sa_lcp.cpp)
+- [后缀数组求L-Gap Substrings(UVA 10829)](字符串/sa_lgap.md)
+
 ### 数据结构
 
 - [Fenwick树(树状数组)](数据结构/fenwick.cpp)
 - [二维Fenwick树](数据结构/fenwick2.cpp)
 - [Hash](数据结构/hash.cpp)
-- [Trie(字典树)](数据结构/trie.cpp)
 - [线段树(单点替换，区间替换，区间增加)](数据结构/segment_tree.md)
 - [线段树(求矩形周长)](数据结构/segment_tree_jxzc.cpp)
 - [线段树(求矩形并、交、并减交的面积)](数据结构/segment_tree_bj.cpp)
@@ -18,6 +25,11 @@ For 找工作前复习&&贴模板方便...
 - [SBT(平衡二叉树)](数据结构/sbt.cpp)
 
 ### 动态规划
+
+- [多重背包](动态规划/backpack.cpp)
+- [基础数位DP](动态规划/digital_dp.md)
+- [整数划分](动态规划/int_div.cpp)
+- [TSP(状压DP)](动态规划/tsp.md)
 
 ### 计算几何
 
@@ -55,12 +67,15 @@ For 找工作前复习&&贴模板方便...
 - [扩展欧几里得，解模线性方程，解ax+by=c的解集](数论/exgcd.md)
 - [非互质中国剩余定理求线性模方程组(形如X%mi=ai)](数论/chinese.cpp)
 - [求1~n中与m互质的数的个数（m>n） 附hdu1695题解(欧拉函数+容斥原理)](数论/hdu1695.md)
-- [高斯消元法解01异或方程组 附poj1222题解](数论/gauss.md)
 - [素数定理，求1~10^n 素数个数的位数](数论/prime_theorem.md)
 - [Baby-Step Giant-Step 解高次同余方程(形如(a^x)%n=b,其中n为素数)](数论/bsgs.cpp)
 - [扩展Baby Step Giant Step (解(a^x)%n=b,其中c没有限制)](数论/exbsgs.cpp)
 - [Miller-Rabin素数测试(被测数可以是小于2^63的正整数)](数论/MR_test.md)
 - [pollard_rho质因素分解](数论/pollard_rho.cpp)
 
-### 其它题解
+### 其它常用算法
 
+- [高斯消元法解01异或方程组 附poj1222题解](其它常用算法/gauss.md)
+- [快速幂](其它常用算法/fast_pow.cpp)
+- [矩阵快速幂](其它常用算法/matrix_fast_pow.cpp)
+- [并查集](其它常用算法/ufs.cpp)
