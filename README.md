@@ -1,4 +1,4 @@
-# ACM_template
+# code_template
 For 找工作前复习... 
 
 ### 字符串
@@ -40,6 +40,13 @@ For 找工作前复习...
 - [2-SAT](图论/two_SAT.md)
 
 ### 数论
+
+- [Lucas求解大组合数](数论/lucas.cpp)
+- [素数筛选，整数唯一分解，整数所有因子和，递归求等比数列前n项和](数列/prime_sieve_etc.md)
+- [大区间素数筛选](数论/large_prime_sieve.cpp)
+- [扩展欧几里得，解模线性方程，解ax+by=c的解集](数论/exgcd.md)
+- [非互质中国剩余定理求线性模方程组(形如X%mi=ai)](数论/chinese.cpp)
+- 
 
 ### 其它题解
 
