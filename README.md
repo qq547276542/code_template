@@ -5,6 +5,18 @@ For 找工作前复习...
 
 ### 数据结构
 
+- [Fenwick树(树状数组)](数据结构/fenwick.cpp)
+- [二维Fenwick树](数据结构/fenwick2.cpp)
+- [Hash](数据结构/hash.cpp)
+- [Trie(字典树)](数据结构/trie.cpp)
+- [线段树(单点替换，区间替换，区间增加)](数据结构/segment_tree.md)
+- [线段树(求矩形周长)](数据结构/segment_tree_jxzc.cpp)
+- [线段树(求矩形并、交、并减交的面积)](数据结构/segment_tree_bj.cpp)
+- [二维线段树(单点更新)](数据结构/segment_tree2.cpp)
+- [K-d Tree](数据结构/kd_tree.cpp)
+- [RMQ](数据结构/rmq.cpp)
+- [SBT(平衡二叉树)](数据结构/sbt.cpp)
+
 ### 动态规划
 
 ### 计算几何
