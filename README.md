@@ -10,6 +10,7 @@ For 贴模板方便...
 - [Manacher算法求最长回文子串](字符串/manacher.cpp)
 - [后缀数组，任意两点间LCP](字符串/sa_lcp.cpp)
 - [后缀数组求L-Gap Substrings(UVA 10829)](字符串/sa_lgap.md)
+- [字符哈希/滚动哈希](字符串/str_hash.md)
 
 ### 数据结构
 
