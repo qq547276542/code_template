@@ -12,6 +12,7 @@ struct KM {
 		memset(weight,0,sizeof(weight));
 	}
 	void add_edge(int left,int right,int W) {
+        // 加边只要加一遍(left->right)
 		weight[left][right]=W;
 	}
 	bool path (int u) { //从 X(u) 寻找增广道路，找到则返回 true
